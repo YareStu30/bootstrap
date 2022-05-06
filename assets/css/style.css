@@ -1,0 +1,11 @@
+#navbarNav {
+  justify-content: right;
+}
+
+.card-body,
+.card-title,
+.form-control,
+.button {
+  font-weight: lighter;
+  font-size: 20px;
+}
